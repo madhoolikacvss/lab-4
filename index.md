@@ -35,7 +35,6 @@
    * typed in 2 - this changed the variable being incremented from index1 to index2
    ![fixed code](https://user-images.githubusercontent.com/122486374/221513384-c798a9ae-e74c-4756-8d95-8450d20aa18f.jpg)
 
-   
    To save and exit I did the following:
    * `ctrl + o <enter> ctrl + w`
    
@@ -43,8 +42,9 @@
    * As I had already run the command for this before, I just did `<up><up>`
    
 6. Commit and push the resulting change to your Github account (you can pick any commit message!)
-   * `git add L<tab>j<tab>
-   * `git add T<tab>j<tab>
+   * `git add L<tab>j<tab>`
+   * `git add T<tab>j<tab>`
    * `git commit -m "Updated versions"`
-   ![fixed code](https://user-images.githubusercontent.com/122486374/221514176-5785a571-8b25-488f-ac84-16edaf5762a5.jpg)
+   ![commit](https://user-images.githubusercontent.com/122486374/221515215-b8e22cd2-52d3-416d-a7b7-d8620f8d66c9.jpg)
 
+   
